@@ -3,15 +3,18 @@
 {
   "dominant_color": "#1a1a1a", 
   "logo_border": "#1a1a1a"
-}   
+} 
+
 {
   "dominant_color": "#fed9e0", 
   "logo_border": "#fed9e0"
 }
+
 {
   "dominant_color": "#eff4f6", 
   "logo_border": "#eff4f6"
 }
+
 {
   "dominant_color": "#98fd03", 
   "logo_border": "#5c9802"
