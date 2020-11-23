@@ -23,5 +23,7 @@ def home() :
 	except :
 		return app.make_response((jsonify({"message": "Bad Request"}),400))
 
+	return app.make_response((jsonify({"message": "Send Images"}),200))
+
 
 app.run(debug=True)
