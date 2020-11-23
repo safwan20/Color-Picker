@@ -1,6 +1,6 @@
 import requests
 
-filename = 'Test/impo.png'
+filename = 'TestImages/impo1.jpeg'
 url = 'http://127.0.0.1:5000/pick_color'
 
 image_file_descriptor = open(filename, 'rb')
